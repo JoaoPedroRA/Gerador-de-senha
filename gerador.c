@@ -158,6 +158,8 @@ int main(void)
             printf("%c", caractere);
         }
         break;
+    default:
+        break;
     }
     printf("\n");
 
